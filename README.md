@@ -23,7 +23,7 @@ git clone https://github.com/your-username/Web-Components.git
 
 ### Download Individual Components
 
-If you prefer to download individual components, simply navigate to the component folder and download the necessary files.
+If you prefer to download individual component, simply navigate to the component folder and download the necessary files.
 
 ## Components
 
