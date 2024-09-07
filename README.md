@@ -32,8 +32,6 @@ This repository currently includes the following components:
 1. **Responsive Navbar** - A mobile-friendly, responsive navigation bar.
 2. **Carousel** - A customizable image or content slider with navigation controls.
 3. **Dropdown Menu** - A stylish and interactive dropdown menu.
-4. **Modal** - A reusable modal dialog box for displaying content in a pop-up window.
-5. **Accordion** - A collapsible/expandable content panel for FAQs or similar content.
 
 We are constantly adding new components, so stay tuned!
 
