@@ -37,7 +37,7 @@ This repository currently includes the following components:
 
 We are constantly adding new components, so stay tuned!
 
-Basic Integration
+### Basic Integration
 
 To integrate a component into your project:
 
@@ -53,7 +53,7 @@ To integrate a component into your project:
 
 For detailed usage instructions, check the README files inside each component folder.
 
-Contributing
+## Contributing
 
 We welcome contributions! If you’d like to contribute:
 
